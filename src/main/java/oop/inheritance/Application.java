@@ -1,5 +1,5 @@
 package oop.inheritance;
-//coment//
+
 import java.time.LocalDateTime;
 
 import oop.inheritance.data.CommunicationType;
